@@ -6,7 +6,10 @@
 
 //Code here
 
-
+let me = {
+  name: "Jerahmeel",
+  age: 26,
+}
 
 //////////////////////////// PROBLEM 2 ////////////////////////////
 
@@ -17,7 +20,10 @@
 
 //Code here
 
-
+const dog = {
+  name: "Buddy",
+  color: 
+}
 
 //////////////////////////// PROBLEM 3 ////////////////////////////
 /* Print out the name of the dog you created in problem 2 using dot-notation. */
